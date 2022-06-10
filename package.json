@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@slack/bolt": "^3.11.1",
+    "dotenv": "^16.0.1",
+    "todo": "./todo-with-exception"
+  }
+}
